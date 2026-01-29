@@ -169,7 +169,6 @@ The **Smart Sensor Network System for Structural Health Monitoring** demonstrate
 
 ## 👤 Authors
 
-## Project mates
 **Sarusan Sivanesan**
 Electrical & Electronics Engineering Undergraduate
 University of Peradeniya, Sri Lanka
