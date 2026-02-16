@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML / data
+data/
+dataset/
+datasets/
+*.csv
+*.zip
+*.h5
+*.pt
+*.pth
+*.onnx
+runs/
+logs/
+outputs/
+checkpoints/
+
+# IDE
+.vscode/
